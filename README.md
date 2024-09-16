@@ -37,7 +37,7 @@ I'm a Computer Engineering student passionate about technology, software develop
 
 
 ## 🎯 Goals
-I am currently exploring the field of machine learning and arificial intelligence, with a particular interest in applying these technologies to solve real-world challenges. My goal is to build impactful solutions through innovation and collaboration.
+I am currently exploring the field of machine learning and artificial intelligence, with a particular interest in applying these technologies to solve real-world challenges. My goal is to build impactful solutions through innovation and collaboration.
 
 ## 🤝 Let's Collaborate!
 I'm always looking forward to collaborating on projects related to software development, machine learning, or any exciting new ideas! Don't hesitate to reach out if you're interested in working together.
