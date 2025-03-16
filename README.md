@@ -32,6 +32,10 @@ I'm a Computer Engineering student passionate about technology, software develop
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%23007ACC.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2300B5CC.svg?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-%23000000.svg?style=for-the-badge&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-%23000000.svg?style=for-the-badge&logo=wind&logoColor=white)
+
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -42,10 +46,6 @@ I'm a Computer Engineering student passionate about technology, software develop
 
 ### Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-## 🎯 Goals
-I am currently exploring the field of machine learning and artificial intelligence, with a particular interest in applying these technologies to solve real-world challenges. My goal is to build impactful solutions through innovation and collaboration.
 
 ## 🤝 Let's Collaborate!
 I'm always looking forward to collaborating on projects related to software development, machine learning, or any exciting new ideas! Don't hesitate to reach out if you're interested in working together.
